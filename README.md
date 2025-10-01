@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## Hi there! 👋
 
 I'm Aysha Ansari, currently navigating the wild world of BTech IT in college. Yes, I am a beginner, but hey, every expert was once a newbie who didn't know how to exit Vim! 😅
